@@ -1,4 +1,4 @@
-=== Expand Portfolio Wordpress Plugin (Expand Portfolio) ===
+=== Expand Portfolio ===
 Contributors: H2CWEB Team
 Donate link: http://liton-online.com/donate
 Tags: WordPress, Expand Portfolio, Portfolio Plugin, WordPress Portfolio Plugin, Portfolio Thumbnail, Website Design, Plugins
