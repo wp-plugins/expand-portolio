@@ -31,7 +31,7 @@ A product by H2CWEB [WordPress Team](http://h2cweb.net).
 
 
 = Problems and Support =
-To get faster response You can drop [a message ](http://h2cweb.net/contact-us/). If you have any query about Expand Portfolio WordPress Plugin then please check our [F.A.Q](http://wordpress.org/extend/plugins/sp-portfolio/faq/). 
+To get faster response You can drop [a message ](http://h2cweb.net/contact-us/). If you have any query about Expand Portfolio WordPress Plugin then please check our [F.A.Q](http://wordpress.org/plugins/expand-portolio/faq/). 
 
 
 = Comments, Feedback and Request Features =
@@ -47,7 +47,7 @@ This plugin is licensed under the [Apache License, Version 2.0](http://www.apach
 * From WordPress Dashboard go to "Plugins>> Add New>> Uploads", select 'expand-portolio.zip' file and upload it. Or,
 * Extract the zip file, copy and paste to the 'wp-conten/plugins/' directory of your WordPress Installation. 
 * Activate the plugin.
-* Create a new page named it "Portfolio". In the editor place this shortcode [ExpandPortfolio].
+* Create a new page named it "Portfolio". In the editor place this shortcode [ExpandPortfolio]
 
 
 
