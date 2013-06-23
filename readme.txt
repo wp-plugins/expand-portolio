@@ -13,8 +13,7 @@ Best WordPress Portfolio Plugin integrated with Custom Post Type, Five Portfolio
 No need extra configurations for Expand Portfolio WordPress Plugin. Expand Portfolio allows to create unlimited Portfolio Items with Title, Description, Thumbnail, Portfolio URL. With the plugin installation's a page named "Portfolio" will be create automatically. You have to add this page in your Navigation where you want 
 to show this page. No shortcode needed, just choose a template for your portfolio and update the page.
 
-
-**Features Included:**
+= Features Included =
 * Expand Portfolio WordPress Plugin includes- Title, Description, Thumbnail, Portfolio URL, Category .
 * Thumnails can be set from Plugin Admin panel "Portfolio Settings".
 * Fancybox - Fancy jQuery lightbox included.
@@ -62,7 +61,7 @@ This plugin is licensed under the [Apache License, Version 2.0](http://www.apach
 6. Output of frontend Expand Portfolio.
 7. Expanded Portfolio after clicked main Image.
 8. Embed Video Playing.
-9. 
+9. Extra sections
 
 == Changelog ==
 
