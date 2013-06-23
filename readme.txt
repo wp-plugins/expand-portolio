@@ -44,10 +44,10 @@ This plugin is licensed under the [Apache License, Version 2.0](http://www.apach
 	
 == Installation ==
 
-* 1) From WordPress Dashboard go to "Plugins>> Add New>> Uploads", select 'sp-porfolio.zip' file and upload it. Or,
-* 2) Extract the zip file, copy and paste to the 'wp-conten/plugins/' directory of your WordPress Installation. 
-* 2) Activate the plugin.
-* 3) Create a new page named it "Portfolio". In the editor place this shortcode [ExpandPortfolio].
+* From WordPress Dashboard go to "Plugins>> Add New>> Uploads", select 'sp-porfolio.zip' file and upload it. Or,
+* Extract the zip file, copy and paste to the 'wp-conten/plugins/' directory of your WordPress Installation. 
+* Activate the plugin.
+* Create a new page named it "Portfolio". In the editor place this shortcode [ExpandPortfolio].
 
 
 
